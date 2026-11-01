@@ -1,0 +1,5 @@
+ORRYX Wizard application-specific code, artwork and trademarks: Copyright (c) 2026 ORRYX. All rights reserved.
+
+Permission is granted to use official, unmodified application releases to configure your own router with an ORRYX subscription. No permission to rebrand, modify, redistribute or use application-specific materials for another commercial VPN service is granted.
+
+Third-party components retain their own licenses and rights. This notice does not restrict rights granted by their licenses. See THIRD-PARTY.md. No warranty is provided; preserve router backups and review the installation instructions.
