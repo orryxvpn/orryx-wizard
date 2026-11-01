@@ -1,0 +1,48 @@
+{
+  "payload": {
+    "schema": 1,
+    "version": "0.8.1",
+    "published_at": "2026-11-01T05:36:39.328490+00:00",
+    "expires_at": "2027-01-30T05:36:39.328490+00:00",
+    "release_url": "https://github.com/orryxvpn/orryx-wizard/releases/tag/v0.8.1",
+    "files": [
+      {
+        "name": "ORRYX-Wizard-0.8.1-macos-arm64.dmg",
+        "bytes": 41084907,
+        "sha256": "a2ccb4b770d87f1ccf9d128e8b44a95886f3f1ca0a2c6d3a6afc2acc89e6d491",
+        "url": "https://github.com/orryxvpn/orryx-wizard/releases/download/v0.8.1/ORRYX-Wizard-0.8.1-macos-arm64.dmg"
+      },
+      {
+        "name": "ORRYX-Wizard-0.8.1-macos-x86_64.dmg",
+        "bytes": 44633220,
+        "sha256": "da6ce67ff8fb4b1397d11684fec4f07f280b1a124453ad2e14c08a515d1090f0",
+        "url": "https://github.com/orryxvpn/orryx-wizard/releases/download/v0.8.1/ORRYX-Wizard-0.8.1-macos-x86_64.dmg"
+      },
+      {
+        "name": "ORRYX-Wizard-0.8.1-windows-arm64-portable.zip",
+        "bytes": 71000182,
+        "sha256": "7568cf952c97ab56210924da49d7d11ad98438088a0b82a3b18b81bb95523cd0",
+        "url": "https://github.com/orryxvpn/orryx-wizard/releases/download/v0.8.1/ORRYX-Wizard-0.8.1-windows-arm64-portable.zip"
+      },
+      {
+        "name": "ORRYX-Wizard-0.8.1-windows-arm64-setup.exe",
+        "bytes": 61014234,
+        "sha256": "5cb6a5529ae616155dfa4888715007e9a6cb4afb963730f331ef473cc24fe5e0",
+        "url": "https://github.com/orryxvpn/orryx-wizard/releases/download/v0.8.1/ORRYX-Wizard-0.8.1-windows-arm64-setup.exe"
+      },
+      {
+        "name": "ORRYX-Wizard-0.8.1-windows-x64-portable.zip",
+        "bytes": 42807580,
+        "sha256": "e4338eee1ad71dd970d4cd4dee94b4ae66d572ed5405deea2a459186818473d5",
+        "url": "https://github.com/orryxvpn/orryx-wizard/releases/download/v0.8.1/ORRYX-Wizard-0.8.1-windows-x64-portable.zip"
+      },
+      {
+        "name": "ORRYX-Wizard-0.8.1-windows-x64-setup.exe",
+        "bytes": 44629068,
+        "sha256": "ffdeffb4266d8374189d36065ccd9ba6fbfbd9e97f77be27d808c9efbfba738b",
+        "url": "https://github.com/orryxvpn/orryx-wizard/releases/download/v0.8.1/ORRYX-Wizard-0.8.1-windows-x64-setup.exe"
+      }
+    ]
+  },
+  "signature": "imD+pBttMFexfaIF7Mmp5bf2UY9aGokw6EaTzFYRADrLs8z0/lirUbT7VG5a1vEan8BybnoSZ99lU6Fso6lkCQ=="
+}
