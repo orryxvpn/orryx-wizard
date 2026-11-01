@@ -1,23 +1,27 @@
 # ORRYX Wizard
 
-Официальные сборки мастера настройки ORRYX для Keenetic. Работает с подписками `https://sub.orryx.org/…`.
+Настройте ORRYX на домашнем Keenetic за несколько шагов: вставьте ссылку подписки, подтвердите роутер и выберите имя и пароль Wi-Fi. Wizard проверит накопитель и сохранит настройки для восстановления.
 
-Этот репозиторий содержит выпуски приложения и подписанный канал обновлений. Исходный код приложения и закрытые ключи не публикуются.
+## Скачать ORRYX Wizard
 
-## Скачать
+| Система | Скачать |
+|---|---|
+| macOS 13+ | [![Apple Silicon](https://img.shields.io/badge/Apple_Silicon-Скачать-147d58?style=for-the-badge)](https://github.com/orryxvpn/orryx-wizard/releases/download/v0.8.1/ORRYX-Wizard-0.8.1-macos-arm64.dmg) [![Intel](https://img.shields.io/badge/Intel-Скачать-147d58?style=for-the-badge)](https://github.com/orryxvpn/orryx-wizard/releases/download/v0.8.1/ORRYX-Wizard-0.8.1-macos-x86_64.dmg) |
+| Windows x64 | [![Установщик x64](https://img.shields.io/badge/Установщик_x64-Скачать-147d58?style=for-the-badge)](https://github.com/orryxvpn/orryx-wizard/releases/download/v0.8.1/ORRYX-Wizard-0.8.1-windows-x64-setup.exe) [![Portable x64](https://img.shields.io/badge/Portable_x64-Скачать-147d58?style=for-the-badge)](https://github.com/orryxvpn/orryx-wizard/releases/download/v0.8.1/ORRYX-Wizard-0.8.1-windows-x64-portable.zip) |
+| Windows 11 ARM64 · экспериментальная | [![Установщик ARM64](https://img.shields.io/badge/Установщик_ARM64-Скачать-147d58?style=for-the-badge)](https://github.com/orryxvpn/orryx-wizard/releases/download/v0.8.1/ORRYX-Wizard-0.8.1-windows-arm64-setup.exe) [![Portable ARM64](https://img.shields.io/badge/Portable_ARM64-Скачать-147d58?style=for-the-badge)](https://github.com/orryxvpn/orryx-wizard/releases/download/v0.8.1/ORRYX-Wizard-0.8.1-windows-arm64-portable.zip) |
 
-Сборки находятся в [Releases](https://github.com/orryxvpn/orryx-wizard/releases). macOS13+: Apple Silicon/Intel. Windows10x64: установщик/portable. Windows11ARM64: установщик/portable, экспериментальная сборка без подтверждённого запуска на нативной WindowsARM64.
+[Все выпуски и история изменений](https://github.com/orryxvpn/orryx-wizard/releases)
 
-Необходимы совместимый Keenetic сUSB, подходящий накопитель и доступ администратора. Конкретные возможности определяются на роутере. Это инженерный выпуск: полный цикл установки/перезагрузки/отката на оборудовании требует дополнительной проверки. Поддержка всех моделей не заявляется.
+Для настройки нужны Keenetic с поддержкой USB и Entware, подходящий накопитель, интернет и доступ администратора роутера. Если накопитель отсутствует или требует подготовки, Wizard покажет подсказку.
 
-## Панель управления
+## Панель ORRYX
 
-После настройки Wizard показывает фактический домашний IP роутера, кнопку перехода и выбранный вами пароль панели. Пароль можно задать самостоятельно или сгенерировать из8символов. Панель доступна локально, показывает живые графики Mihomo, позволяет выбирать серверы, обновлять подписку и проверять HTTPS-задержку. Публичный доступ не включается. Пароль панели и Wi-Fi могут отличаться.
+После настройки откройте локальную панель кнопкой в Wizard: живые графики трафика и соединений, выбор серверов, обновление подписки и проверка задержки. Адрес и пароль панели появятся в конце настройки.
 
-## Обновления и подлинность
+## Обновления
 
-Начиная с0.8.0, Wizard фоново проверяет `update.json`, цифровую подпись Ed25519, версию и срок действия. При скачивании проверяются размер иSHA256. Установщик не запускается автоматически. Закрытый ключ не входит в приложение или этот репозиторий; в приложении только открытый ключ. Предыдущие версии без механизма обновления необходимо обновить вручную.
+Wizard автоматически проверяет наличие новых выпусков и показывает уведомление. Для версии 0.8.1 скачанный выпуск устанавливается вручную.
 
-Подпись подтверждает официальный канал выпуска. Она не делает защиту от копирования абсолютной: владелец компьютера может изменить локальный клиент. Ограничения ORRYX в официальном приложении не означают невозможность стороннего форка. AppleDeveloperID/notarization и WindowsAuthenticode не предоставлены; Ed25519 не заменяет системную подпись приложения.
+Предварительный выпуск. Windows ARM64 требует дополнительной проверки на нативном устройстве. Возможности зависят от модели и версии KeeneticOS.
 
-[Личный кабинет](https://app.orryx.org) · [Поддержка](https://app.orryx.org/#/support-chat/new)
+[Личный кабинет](https://app.orryx.org) · [Помощь и поддержка](https://app.orryx.org/#/support-chat/new)
