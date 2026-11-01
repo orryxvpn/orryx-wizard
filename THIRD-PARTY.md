@@ -12,3 +12,5 @@ ORRYX Wizard uses unmodified third-party libraries. Their own licenses continue 
 - PyInstaller bootloader: GPL2.0 with distribution exception, https://pyinstaller.org/en/stable/license.html
 
 Router components Mihomo, XKeen and Entware are fetched separately from their upstream sources; their licenses and distribution terms apply. The Wizard does not claim exclusive rights over those components.
+
+Локальный сервер панели использует стандартную библиотеку Go (BSD-3-Clause). Уведомление Go Authors включено в ресурсы сборки: go-LICENSE.txt.
