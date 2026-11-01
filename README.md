@@ -6,9 +6,9 @@
 
 | Система | Скачать |
 |---|---|
-| macOS 13+ | [![Apple Silicon](https://img.shields.io/badge/Apple_Silicon-Скачать-147d58?style=for-the-badge)](https://github.com/orryxvpn/orryx-wizard/releases/download/v0.10.1/ORRYX-Wizard-0.10.1-macos-arm64.dmg) [![Intel](https://img.shields.io/badge/Intel-Скачать-147d58?style=for-the-badge)](https://github.com/orryxvpn/orryx-wizard/releases/download/v0.10.1/ORRYX-Wizard-0.10.1-macos-x86_64.dmg) |
-| Windows x64 | [![Установщик x64](https://img.shields.io/badge/Установщик_x64-Скачать-147d58?style=for-the-badge)](https://github.com/orryxvpn/orryx-wizard/releases/download/v0.10.1/ORRYX-Wizard-0.10.1-windows-x64-setup.exe) [![Portable x64](https://img.shields.io/badge/Portable_x64-Скачать-147d58?style=for-the-badge)](https://github.com/orryxvpn/orryx-wizard/releases/download/v0.10.1/ORRYX-Wizard-0.10.1-windows-x64-portable.zip) |
-| Windows 11 ARM64 · экспериментальная | [![Установщик ARM64](https://img.shields.io/badge/Установщик_ARM64-Скачать-147d58?style=for-the-badge)](https://github.com/orryxvpn/orryx-wizard/releases/download/v0.10.1/ORRYX-Wizard-0.10.1-windows-arm64-setup.exe) [![Portable ARM64](https://img.shields.io/badge/Portable_ARM64-Скачать-147d58?style=for-the-badge)](https://github.com/orryxvpn/orryx-wizard/releases/download/v0.10.1/ORRYX-Wizard-0.10.1-windows-arm64-portable.zip) |
+| macOS 13+ | [![Apple Silicon](https://img.shields.io/badge/Apple_Silicon-Скачать-147d58?style=for-the-badge)](https://github.com/orryxvpn/orryx-wizard/releases/download/v0.10.2/ORRYX-Wizard-0.10.2-macos-arm64.dmg) [![Intel](https://img.shields.io/badge/Intel-Скачать-147d58?style=for-the-badge)](https://github.com/orryxvpn/orryx-wizard/releases/download/v0.10.2/ORRYX-Wizard-0.10.2-macos-x86_64.dmg) |
+| Windows x64 | [![Установщик x64](https://img.shields.io/badge/Установщик_x64-Скачать-147d58?style=for-the-badge)](https://github.com/orryxvpn/orryx-wizard/releases/download/v0.10.2/ORRYX-Wizard-0.10.2-windows-x64-setup.exe) [![Portable x64](https://img.shields.io/badge/Portable_x64-Скачать-147d58?style=for-the-badge)](https://github.com/orryxvpn/orryx-wizard/releases/download/v0.10.2/ORRYX-Wizard-0.10.2-windows-x64-portable.zip) |
+| Windows 11 ARM64 · экспериментальная | [![Установщик ARM64](https://img.shields.io/badge/Установщик_ARM64-Скачать-147d58?style=for-the-badge)](https://github.com/orryxvpn/orryx-wizard/releases/download/v0.10.2/ORRYX-Wizard-0.10.2-windows-arm64-setup.exe) [![Portable ARM64](https://img.shields.io/badge/Portable_ARM64-Скачать-147d58?style=for-the-badge)](https://github.com/orryxvpn/orryx-wizard/releases/download/v0.10.2/ORRYX-Wizard-0.10.2-windows-arm64-portable.zip) |
 
 [Все выпуски и история изменений](https://github.com/orryxvpn/orryx-wizard/releases)
 
@@ -16,7 +16,7 @@
 
 ## Резервная копия
 
-Перед настройкой выберите папку для ZIP с конфигурацией роутера; по умолчанию — рабочий стол. Штатная копия Keenetic и доступные файлы VPN сохраняются до изменений. Без успешного сохранения Wizard остановится.
+Перед настройкой выберите папку для ZIP с конфигурацией роутера; по умолчанию — рабочий стол. Штатная копия Keenetic и доступные файлы VPN сохраняются до изменений. Доступ к Keenetic и папка сохранения находятся на одном шаге. Копию можно пропустить кнопкой «Пропустить». Если выбрано сохранение, ошибка остановит настройку. Автоматические точки восстановления на роутере сохраняются.
 
 ## Авторизация
 
