@@ -2,10 +2,22 @@
   "payload": {
     "schema": 1,
     "version": "0.11.0",
-    "published_at": "2026-11-26T03:38:59.678960+00:00",
-    "expires_at": "2027-02-24T03:38:59.678960+00:00",
+    "published_at": "2026-11-26T04:33:04.180736+00:00",
+    "expires_at": "2027-02-24T04:33:04.180736+00:00",
     "release_url": "https://github.com/orryxvpn/orryx-wizard/releases/tag/v0.11.0",
     "files": [
+      {
+        "name": "ORRYX-Wizard-0.11.0-macos-arm64.dmg",
+        "bytes": 74252094,
+        "sha256": "81488e656e871800a475a32cb6c371939200d88a9978bdfbb6306ea2201e0075",
+        "url": "https://github.com/orryxvpn/orryx-wizard/releases/download/v0.11.0/ORRYX-Wizard-0.11.0-macos-arm64.dmg"
+      },
+      {
+        "name": "ORRYX-Wizard-0.11.0-macos-x86_64.dmg",
+        "bytes": 77892303,
+        "sha256": "22a65eb06997154c53aa876a2a84490118f116b4b73c3af7de4f1c1a398ca6e9",
+        "url": "https://github.com/orryxvpn/orryx-wizard/releases/download/v0.11.0/ORRYX-Wizard-0.11.0-macos-x86_64.dmg"
+      },
       {
         "name": "ORRYX-Wizard-0.11.0-windows-arm64-portable.zip",
         "bytes": 101789395,
@@ -32,5 +44,5 @@
       }
     ]
   },
-  "signature": "09d0LyxUa0GZRTdIBetzWdtc/ebs4WdNIzvpu6Lahi3vE4Ywy38QBA7dSRHFyqpQmgVpHELJbj19MYDTnpvbCA=="
+  "signature": "v4GHuAFkzB72/c1kO2EcPRB576JNlm2dqknN0ySMb6KCfqOfZg6O6SaVSLwzsqxkB1pjJgDScDC3qXqHKdb7Aw=="
 }
