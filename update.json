@@ -1,48 +1,48 @@
 {
   "payload": {
     "schema": 1,
-    "version": "0.11.1",
-    "published_at": "2026-11-26T04:56:06.365984+00:00",
-    "expires_at": "2027-02-24T04:56:06.365984+00:00",
-    "release_url": "https://github.com/orryxvpn/orryx-wizard/releases/tag/v0.11.1",
+    "version": "0.11.2",
+    "published_at": "2026-11-27T10:53:22.076812+00:00",
+    "expires_at": "2027-02-25T10:53:22.076812+00:00",
+    "release_url": "https://github.com/orryxvpn/orryx-wizard/releases/tag/v0.11.2",
     "files": [
       {
-        "name": "ORRYX-Wizard-0.11.1-macos-arm64.dmg",
-        "bytes": 74416619,
-        "sha256": "c9411cde7ec011f6358e885969d3c08a59e3e01d1ff297f566ff44a893ab6f4c",
-        "url": "https://github.com/orryxvpn/orryx-wizard/releases/download/v0.11.1/ORRYX-Wizard-0.11.1-macos-arm64.dmg"
+        "name": "ORRYX-Wizard-0.11.2-macos-arm64.dmg",
+        "bytes": 74419819,
+        "sha256": "08b7f33894116effff5c93e4edefb0ed51e70b1145b0b65b4f4343759bf67462",
+        "url": "https://github.com/orryxvpn/orryx-wizard/releases/download/v0.11.2/ORRYX-Wizard-0.11.2-macos-arm64.dmg"
       },
       {
-        "name": "ORRYX-Wizard-0.11.1-macos-x86_64.dmg",
-        "bytes": 77911047,
-        "sha256": "4ebffdaa331c365b03d3983d142b8694eb57a0fc6f47593f1fcc0f0933e82eab",
-        "url": "https://github.com/orryxvpn/orryx-wizard/releases/download/v0.11.1/ORRYX-Wizard-0.11.1-macos-x86_64.dmg"
+        "name": "ORRYX-Wizard-0.11.2-macos-x86_64.dmg",
+        "bytes": 77909990,
+        "sha256": "44791365aff76592612c75d66da5fb1eceea06424182bb5d16cdc48272e50094",
+        "url": "https://github.com/orryxvpn/orryx-wizard/releases/download/v0.11.2/ORRYX-Wizard-0.11.2-macos-x86_64.dmg"
       },
       {
-        "name": "ORRYX-Wizard-0.11.1-windows-arm64-portable.zip",
-        "bytes": 101797582,
-        "sha256": "6d1c4da931c847d0c683a40f3d0f992b69ea4d60b42ff4fa0909d342c9013565",
-        "url": "https://github.com/orryxvpn/orryx-wizard/releases/download/v0.11.1/ORRYX-Wizard-0.11.1-windows-arm64-portable.zip"
+        "name": "ORRYX-Wizard-0.11.2-windows-arm64-portable.zip",
+        "bytes": 101798086,
+        "sha256": "b9b0887786f7fce2bcb5d0c34395dfbe6412c2c7b7f3b47ed70c57debe577e3f",
+        "url": "https://github.com/orryxvpn/orryx-wizard/releases/download/v0.11.2/ORRYX-Wizard-0.11.2-windows-arm64-portable.zip"
       },
       {
-        "name": "ORRYX-Wizard-0.11.1-windows-arm64-setup.exe",
-        "bytes": 88398029,
-        "sha256": "445cc253017782948fb9d54ac9483c3b9256c1f4a51858442ed0c9b86f161fa9",
-        "url": "https://github.com/orryxvpn/orryx-wizard/releases/download/v0.11.1/ORRYX-Wizard-0.11.1-windows-arm64-setup.exe"
+        "name": "ORRYX-Wizard-0.11.2-windows-arm64-setup.exe",
+        "bytes": 88398622,
+        "sha256": "149adad08ce7492e3632d60a0dbf979f0ef5e7038f5c9a448f471304cc40f115",
+        "url": "https://github.com/orryxvpn/orryx-wizard/releases/download/v0.11.2/ORRYX-Wizard-0.11.2-windows-arm64-setup.exe"
       },
       {
-        "name": "ORRYX-Wizard-0.11.1-windows-x64-portable.zip",
-        "bytes": 73456418,
-        "sha256": "b165528d0bf1ad4534c39c8d8ae5230df3e8f5c2f46242d1fb0d0b828395bd08",
-        "url": "https://github.com/orryxvpn/orryx-wizard/releases/download/v0.11.1/ORRYX-Wizard-0.11.1-windows-x64-portable.zip"
+        "name": "ORRYX-Wizard-0.11.2-windows-x64-portable.zip",
+        "bytes": 73457832,
+        "sha256": "8fc717dce29015d9219936800fa6dda13ae0c0b1668dad23681ae9d98ccf63f9",
+        "url": "https://github.com/orryxvpn/orryx-wizard/releases/download/v0.11.2/ORRYX-Wizard-0.11.2-windows-x64-portable.zip"
       },
       {
-        "name": "ORRYX-Wizard-0.11.1-windows-x64-setup.exe",
-        "bytes": 75283176,
-        "sha256": "03eda57b5a2f660f0423b54a03db999ed6f776614ad8c241ab62fe29042f0189",
-        "url": "https://github.com/orryxvpn/orryx-wizard/releases/download/v0.11.1/ORRYX-Wizard-0.11.1-windows-x64-setup.exe"
+        "name": "ORRYX-Wizard-0.11.2-windows-x64-setup.exe",
+        "bytes": 75284259,
+        "sha256": "618729eaa21302c9ee85bba39de9fd64dd635b95e1be076a2bfa38868e5a93ce",
+        "url": "https://github.com/orryxvpn/orryx-wizard/releases/download/v0.11.2/ORRYX-Wizard-0.11.2-windows-x64-setup.exe"
       }
     ]
   },
-  "signature": "hHWobJjMC1Wf7MFknS11BJwuZg1L8J4Pk3e2Rlau++xdxMPxfQlmCqeQuvf4vzkKiHezpDvKqFVHJ06WeYNuAQ=="
+  "signature": "6tNLICBZRoIurVgzYbs5QiZchL7jL6f2XjRZsbqha7hCSLZKAuv54SxMAPo51B++oTkEkFPaug4U5pJhzn52CQ=="
 }
